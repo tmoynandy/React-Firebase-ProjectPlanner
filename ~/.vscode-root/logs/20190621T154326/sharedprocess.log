@@ -1,0 +1,46 @@
+[2019-06-21 15:43:32.483] [sharedprocess] [info] main {"machineId":"949878d25b08ba272587550be877de39294c4c6191633fc08e82903e88229d18"}
+[2019-06-21 15:43:36.920] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:43:38.283] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 15:43:38.304] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:43:38.310] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:43:38.366] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 15:43:38.382] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 15:43:38.495] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:43:38.510] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 15:43:40.188] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:44:11.977] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:44:12.024] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 15:44:12.452] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-21 15:44:12.485] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:44:12.517] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 15:44:14.006] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:49:14.071] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:54:14.146] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 15:59:14.205] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:04:14.269] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:05:07.245] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:05:07.252] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:05:07.256] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:05:07.259] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:05:07.311] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 16:05:07.319] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 16:05:07.330] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 16:05:07.471] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:05:07.562] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 16:05:07.578] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:05:07.613] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:05:07.621] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 16:05:07.637] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 16:07:18.410] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2019-06-21 16:07:18.440] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:07:18.979] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:07:19.001] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 16:07:19.110] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:07:19.129] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-21 16:07:19.902] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets /tmp/24b04a11-e030-4fd5-bb35-e15d7f700c2a
+[2019-06-21 16:07:20.003] [sharedprocess] [info] Extracted extension to /home/tanu/.vscode/extensions/.dsznajder.es7-react-js-snippets-2.3.0: dsznajder.es7-react-js-snippets
+[2019-06-21 16:07:20.003] [sharedprocess] [info] Renamed to /home/tanu/.vscode/extensions/dsznajder.es7-react-js-snippets-2.3.0
+[2019-06-21 16:07:20.005] [sharedprocess] [info] Installation completed. dsznajder.es7-react-js-snippets
+[2019-06-21 16:07:20.064] [sharedprocess] [info] Extensions installed successfully: dsznajder.es7-react-js-snippets
+[2019-06-21 16:09:14.349] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-21 16:14:14.445] [sharedprocess] [info] Scanned user extensions: 31
