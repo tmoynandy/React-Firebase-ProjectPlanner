@@ -1,0 +1,11 @@
+[2019-06-26 00:59:06.217] [sharedprocess] [info] main {"machineId":"949878d25b08ba272587550be877de39294c4c6191633fc08e82903e88229d18"}
+[2019-06-26 00:59:06.401] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-26 00:59:06.425] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-26 00:59:06.439] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-26 00:59:06.465] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-26 00:59:06.473] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-26 00:59:06.560] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-26 00:59:06.571] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-26 00:59:08.388] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-06-26 00:59:08.417] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-26 00:59:33.548] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/a4d45a45-dbd4-4f52-8b6b-42911d7ccf7e

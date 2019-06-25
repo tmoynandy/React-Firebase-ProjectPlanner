@@ -541,7 +541,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1360,5 +1361,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/tanu/Desktop"
+    "pickerWorkingDir": "/home/tanu/Desktop",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/tanu/Desktop/marioplan",
+            "backupPath": "/home/tanu/Desktop/marioplan/~/.vscode-root/Backups/dcc054f620d5936c07daaefda46decbd",
+            "uiState": {
+                "mode": 0,
+                "x": 65,
+                "y": 24,
+                "width": 1301,
+                "height": 744
+            }
+        },
+        "openedWindows": []
+    }
 }

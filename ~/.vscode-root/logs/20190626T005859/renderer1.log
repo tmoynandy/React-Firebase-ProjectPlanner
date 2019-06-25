@@ -1,0 +1,2 @@
+[2019-06-26 00:59:04.825] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/tanu/Desktop/marioplan/.vscode'
+[2019-06-26 00:59:14.823] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 5442.29ms, saved PROFILE here: '/tmp/exthost-85bb64.cpuprofile' [{"id":"gc","total":8576,"percentage":0},{"id":"program","total":156,"percentage":0},{"id":"ritwickdey.LiveServer","total":5430275,"percentage":100}]
