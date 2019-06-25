@@ -9,3 +9,11 @@
 [2019-06-26 00:59:08.388] [sharedprocess] [info] Installing extension: ms-python.python
 [2019-06-26 00:59:08.417] [sharedprocess] [info] Scanned user extensions: 31
 [2019-06-26 00:59:33.548] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/a4d45a45-dbd4-4f52-8b6b-42911d7ccf7e
+[2019-06-26 00:59:39.795] [sharedprocess] [info] Extracted extension to /home/tanu/.vscode/extensions/.ms-python.python-2019.6.22090: ms-python.python
+[2019-06-26 00:59:39.796] [sharedprocess] [info] Renamed to /home/tanu/.vscode/extensions/ms-python.python-2019.6.22090
+[2019-06-26 00:59:39.804] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-06-26 00:59:42.330] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-06-26 00:59:46.165] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-26 01:04:06.612] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-26 01:09:06.710] [sharedprocess] [info] Scanned user extensions: 31
+[2019-06-26 01:14:09.319] [sharedprocess] [info] Scanned user extensions: 31

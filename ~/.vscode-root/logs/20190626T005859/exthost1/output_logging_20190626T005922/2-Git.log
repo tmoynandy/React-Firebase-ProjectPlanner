@@ -20,3 +20,68 @@ Open repository: /home/tanu/Desktop/marioplan
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git show :src/store/reducers/authReducer.js
+> git status -z -u
+> git show :src/store/reducers/authReducer.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/authReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/authReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/authReducer.js
+> git show :src/store/actions/projectActions.js
+> git show :src/store/reducers/authReducer.js
+> git show :src/store/actions/authActions.js
+> git show :src/store/reducers/authReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/actions/authActions.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/components/layout/Navbar.js
+> git show :src/components/layout/SignedInLinks.js
+> git show :src/store/actions/authActions.js
+> git show :src/components/layout/SignedInLinks.js
+> git show :src/store/actions/authActions.js
+> git show :src/components/layout/SignedInLinks.js
+> git show :src/store/actions/authActions.js
+> git show :src/components/layout/SignedInLinks.js
+> git show :src/store/actions/authActions.js
+> git show :src/store/reducers/authReducer.js
+> git show :src/components/layout/SignedInLinks.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
