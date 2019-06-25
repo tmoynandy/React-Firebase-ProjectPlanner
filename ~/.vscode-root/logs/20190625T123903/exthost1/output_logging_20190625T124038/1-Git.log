@@ -87,3 +87,200 @@ Open repository: /home/tanu/Desktop/marioplan
 > git rev-list --left-right master...refs/remotes/origin/master
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
+> git status -z -u
+> git show :src/components/project/ProjectSummary.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/project/ProjectSummary.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/project/ProjectSummary.js
+> git show :src/components/project/ProjectList.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/store/reducers/projectReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/projectReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/projectActions.js
+> git ls-files --stage -- src/store/reducers/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/project/CreateProject.js
+> git show :src/store/reducers/projectActions.js
+> git ls-files --stage -- src/store/reducers/
+> git show :src/components/project/CreateProject.js
+> git show :src/store/reducers/projectActions.js
+> git ls-files --stage -- src/store/reducers/
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/rootReducer.js
+> git show :src/components/project/CreateProject.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/components/project/CreateProject.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/components/project/CreateProject.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/components/project/CreateProject.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/components/project/CreateProject.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/project/CreateProject.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/projectReducer.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/store/reducers/projectReducer.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/projectReducer.js
+> git show :src/store/reducers/rootReducer.js
+> git show :src/components/project/CreateProject.js
+> git show :src/store/reducers/projectReducer.js
+> git show :src/components/project/CreateProject.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/projectReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/project/CreateProject.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/store/reducers/projectReducer.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/components/project/CreateProject.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/components/project/CreateProject.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/store/reducers/projectReducer.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/store/reducers/projectReducer.js
+> git show :src/store/actions/projectActions.js
+> git ls-files --stage -- src/store/actions/
+> git show :src/store/reducers/projectReducer.js
