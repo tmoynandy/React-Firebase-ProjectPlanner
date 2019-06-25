@@ -1,4 +1,10 @@
-const initState = {}
+const initState = {
+    projects : [
+        {id : '1', title : 'A new mern stack', content : 'blah blah blah'},
+        {id : '2', title : 'A new mean stack', content : 'blah blah blah'},
+        {id : '3', title : 'A new mevn stack', content : 'blah blah blah'},
+    ]
+}
 
 const projectReducer = (state = initState, action) =>{
     return state

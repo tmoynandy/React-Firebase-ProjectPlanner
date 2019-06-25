@@ -1,0 +1,49 @@
+[2019-06-24 23:25:59.362] [exthost] [info] extension host started
+[2019-06-24 23:25:59.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:25:59.978] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-24 23:26:00.470] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:00.470] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-24 23:26:00.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:00.516] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-24 23:26:01.209] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:01.209] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-24 23:26:01.529] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:01.529] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-06-24 23:26:02.134] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:02.134] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-24 23:26:02.259] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:02.259] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/equinusocio.vsc-material-theme-2.9.0/out/src/material.theme.config
+[2019-06-24 23:26:02.403] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:02.403] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2019-06-24 23:26:02.932] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:02.932] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-06-24 23:26:08.863] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:08.863] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-24 23:26:09.140] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:09.140] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-06-24 23:26:33.670] [exthost] [info] extension host started
+[2019-06-24 23:26:33.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:33.704] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-24 23:26:33.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:33.709] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-24 23:26:33.732] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:33.732] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-24 23:26:33.874] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:33.874] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-24 23:26:33.882] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:33.882] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-06-24 23:26:33.900] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:33.900] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-24 23:26:33.971] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:33.971] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/equinusocio.vsc-material-theme-2.9.0/out/src/material.theme.config
+[2019-06-24 23:26:33.982] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:33.982] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2019-06-24 23:26:34.004] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:34.004] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2019-06-24 23:26:34.061] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:34.061] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-24 23:26:34.086] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:26:34.086] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-06-24 23:27:08.459] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"activationEvent":"*"}
+[2019-06-24 23:27:08.459] [exthost] [info] ExtensionService#loadCommonJSModule /home/tanu/.vscode/extensions/zignd.html-css-class-completion-1.19.0/out/src/extension
+[2019-06-24 23:27:18.818] [exthost] [info] eager extensions activated
