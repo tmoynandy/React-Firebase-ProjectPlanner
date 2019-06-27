@@ -1,0 +1,166 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/tanu/Desktop/marioplan
+> git status -z -u
+> git show :src/store/reducers/authReducer.js
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git show :src/store/reducers/authReducer.js
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/actions/authActions.js
+> git show :src/store/actions/projectActions.js
+> git show :src/store/reducers/rootReducer.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :src/components/dashboard/Dashboard.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/store/reducers/rootReducer.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/store/reducers/rootReducer.js
+> git show :src/store/reducers/authReducer.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/store/reducers/authReducer.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/store/reducers/rootReducer.js
+> git show :src/store/reducers/projectReducer.js
+> git show :src/store/reducers/rootReducer.js
+> git show :src/store/reducers/projectReducer.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/store/reducers/projectReducer.js
+> git show :src/store/actions/projectActions.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/store/actions/projectActions.js
+> git show :src/store/reducers/rootReducer.js
+> git show :src/store/reducers/projectReducer.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/components/project/ProjectList.js
+> git show :src/components/dashboard/Dashboard.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/auth/SignIn.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/App.js
+> git show :src/components/auth/SignIn.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/components/auth/SignIn.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/components/auth/SignIn.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/store/reducers/rootReducer.js
+> git show :src/components/auth/SignIn.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/components/auth/SignIn.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/project/CreateProject.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/project/CreateProject.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/components/project/CreateProject.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/components/project/CreateProject.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/components/project/CreateProject.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/project/ProjectDetails.js
+> git show :src/components/dashboard/Dashboard.js
+> git show :src/components/project/ProjectDetails.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/auth/SignIn.js
+> git show :src/components/auth/SignUp.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show :src/components/auth/SignIn.js
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/components/auth/SignIn.js
+> git show :src/components/auth/SignUp.js
+> git show :src/components/auth/SignIn.js
+> git show :src/components/auth/SignUp.js
+> git show :src/components/auth/SignIn.js
+> git show :src/components/auth/SignUp.js
+> git show :src/components/auth/SignIn.js
+> git show :src/components/auth/SignUp.js
+> git show :src/components/auth/SignIn.js
+> git show :src/components/auth/SignUp.js
+> git show :src/components/auth/SignIn.js
+> git show :src/components/auth/SignUp.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
